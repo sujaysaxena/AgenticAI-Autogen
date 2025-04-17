@@ -1,0 +1,4 @@
+autogen
+pyautogen
+python-dotenv
+openai
